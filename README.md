@@ -1,3 +1,15 @@
+## 📌 Note from Contributor
+
+This repository is a personal fork of a team project originally hosted at [jl3443/Wildfire-and-Insurance-Analysis-in-Los-Angeles](https://github.com/jl3443/Wildfire-and-Insurance-Analysis-in-Los-Angeles). It is included in my GitHub portfolio to demonstrate my contributions in data engineering, geospatial processing, and dashboard visualization.
+
+During the project, I contributed to:
+- Building Apache Spark data pipelines for large-scale wildfire and insurance data
+- Performing geospatial multipolygon processing and zip code mapping
+- Designing and publishing interactive Tableau dashboards
+- Managing cloud deployment and data access via DuckDB on AWS EC2
+
+---
+
 # Wildfire-and-Insurance-Analysis-in-Los-Angeles
 [🔗 Tableau Dashboard Link](https://public.tableau.com/app/profile/violet.ahmat/viz/405FinalProject-CAFireInsurance/MappingEarnedPremiumsInsuranceRiskbyZipCode?publish=yes)
 This is the interactive Tableau dashboard for our project, visualizing wildfire-related insurance risks and premiums across Los Angeles zip codes.
